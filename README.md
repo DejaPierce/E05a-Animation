@@ -1,9 +1,1 @@
-# E05a-Animation
-
-We will begin to explore keyboard and mouse control in a Python Arcade program.
-
-When you are done, main1.py should contain the code on [http://arcade.academy/examples/move_mouse.html#move-mouse](http://arcade.academy/examples/move_mouse.html#move-mouse). Play with the code until you feel like you understand what is going on. Comment any uncommented line; feel free to ask for help!
-
-main2.py should contain the code on [http://arcade.academy/examples/move_keyboard.html#move-keyboard](http://arcade.academy/examples/move_keyboard.html#move-keyboard). Play with the code until you feel like you understand what is going on. Comment any uncommented line; feel free to ask for help!
-
-For extra credit, you could create a main3.py that contains the code on [http://arcade.academy/examples/sprite_move_animation.html#sprite-move-animation](http://arcade.academy/examples/sprite_move_animation.html#sprite-move-animation). Download sprite assets for the player and coins and figure out how to make your character walk left and right.
+In this assignment the program allows users to play with an animated ball. In the first file you can control the ball by using the mouse. First play around with animation and go look at the coding. Each line of the code in the program tells you what it does in the program. Some of the unique things of this program is that the ball changes colors when you click the mouse and it records the number of clicks that you made in the program. In the second file you can control the ball by using the left, right, up, and down keys. Again play with the ball animation and go look at the coding. Each line of code in the program tells you what it does in the program. This program doesn't have as many unique features as the first one, but the biggest difference is being able to use the keys on the keyboard. 
